@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "832530405464",
+    "project_id": "series-pro-9d973",
+    "storage_bucket": "series-pro-9d973.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832530405464:android:477fd5420c3e142b3a922d",
+        "android_client_info": {
+          "package_name": "com.bebo.seriespro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832530405464-im3fk9275srth7vkgdojk79nvlqvnqi5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBkyZvMu1mX0hKxVLCAge5e_iPwT92yIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832530405464-im3fk9275srth7vkgdojk79nvlqvnqi5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
