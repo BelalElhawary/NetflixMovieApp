@@ -32,6 +32,7 @@
             app:sliderScrollTimeInSec="3"
             app:sliderStartAutoCycle="true"/>
     </androidx.cardview.widget.CardView>
+
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recycler_show"
         android:layout_margin="20dp"
@@ -43,8 +44,9 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         app:menu="@menu/bottom_nav"
-        app:itemIconTint="@color/purple_700"
+        app:itemIconTint="@drawable/navbar_item"
         app:itemTextColor="@color/backgroundAc"
+        app:labelVisibilityMode="unlabeled"
         android:background="@color/background"
         android:layout_alignParentBottom="true"
         android:paddingBottom="10dp"/>
